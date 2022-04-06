@@ -1,0 +1,18 @@
+In this study we use institutional data (acquired from several disjoint databases)
+related to students enrolled in undergraduate courses of Polytechnic Institute of Por-
+talegre, Portugal. The data refers to records of students enrolled between academic
+years 2008/09–2018/2019 and from different undergraduate degrees, such as agronomy,
+design, education, nursing, journalism, management, social service and technologies.
+
+The data contains variables related to demographic factors (age at enrollment, gender,
+marital status, nationality, address code, special needs) socio-economic factors (student-
+worker, parent’s habilitations, parent’s professions, parent’s employment situation, stu-
+dent grant, student’s debt) and student’s academic path (admission grade, retention years
+at high school, order of choice for enrolled course, type of course at high school). We
+limit the academic information to factors observable prior to registration, excluding
+internal assessments after enrollment.
+Each record was classiﬁed as Success, Relative Success and Failure, depending on the
+time that the student took to obtain her degree. Success means that the student obtained
+the degree in due time; Relative Success means that the student took until three extra years
+to obtain the degree; Failure means that the student took more than three extra years to
+obtain the degree or doesn’t obtain the degree at all.
